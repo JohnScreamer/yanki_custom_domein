@@ -13,6 +13,7 @@ const nextConfig = {
             "yankisli.herokuapp.com",
             "herokuapp.com",
             "yankiscreamer322.shop",
+            "yankiscreamer322",
         ],
     },
 };
