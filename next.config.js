@@ -12,6 +12,7 @@ const nextConfig = {
             "content2.rozetka.com.ua",
             "yankisli.herokuapp.com",
             "herokuapp.com",
+            "yankiscreamer322.shop",
         ],
     },
 };
